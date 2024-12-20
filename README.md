@@ -23,6 +23,8 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 
 ## 🧩 Repository Structure (Potential)
 
+<div align = "left">
+
 ```plaintext
 📂 self-machine-learning
 ├── 📁 datasets/          # Sample datasets used during the course
@@ -31,6 +33,7 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 ├── 📁 models/            # Saved models for evaluation and deployment
 └── 📄 README.md          # This file
 ```
+</div>
 
 ---
 
@@ -70,3 +73,5 @@ If you've got any suggestions to help me out, feel free to reach out on my socia
 #### A dev quote for you:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>

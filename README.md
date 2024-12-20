@@ -72,6 +72,6 @@ If you've got any suggestions to help me out, feel free to reach out on my socia
 
 #### A dev quote for you:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=truel&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=truel&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>

@@ -27,6 +27,7 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 
 ```plaintext
 📂 self-machine-learning
+├── 📁 notes/             # Notes from watching the videos
 ├── 📁 datasets/          # Sample datasets used during the course
 ├── 📁 notebooks/         # Jupyter notebooks for all completed assignments and experiments
 ├── 📁 scripts/           # Python scripts for utility functions and reusable components

@@ -19,6 +19,8 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 | **Unsupervised Machine Learning**          | Clustering and dimensionality reduction for insightful data analysis.                              |
 | **Deep Learning**                          | Introduction to neural networks and deep learning for advanced pattern recognition.                |
 
+#### Additionally, I will be learning Python, along with other tools required for this course on the side. The repo for that can be found [*here*](https://github.com/rajin-khan/python-self)
+
 ---
 
 ## 🧩 Repository Structure (Potential)

@@ -60,6 +60,16 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 
 ---
 
+## ✅ Concepts Covered (so far):
+
+- [X] Introduction to AI and ML
+- [X] Applications of AI and ML
+- [X] Overview of different types of Machine Learning
+- [X] Difference between Regression and Classification
+- [ ] Univariate Linear Regression
+
+---
+
 ## 🌟 Goals
 
 - Develop a solid understanding of machine learning fundamentals.

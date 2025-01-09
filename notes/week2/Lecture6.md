@@ -68,9 +68,3 @@ Feature scaling is a preprocessing technique used to transform data so that feat
 - Feature scaling significantly improves gradient descent performance.
 - Choose a scaling method (maximum scaling, mean normalization, or Z-score normalization) based on the dataset and problem context.
 - Always consider scaling features that vary widely in range to ensure smoother convergence of gradient descent.
-
----
-
-### **Next Topics**
-- **Gradient Descent Convergence:** How to check if gradient descent is finding the global minimum.
-- **Learning Rate Selection:** How to choose an appropriate learning rate for efficient optimization. 

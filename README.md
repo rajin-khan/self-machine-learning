@@ -52,12 +52,13 @@ I will be following the [Introduction to Machine Learning Specialization](https:
 
 ## 📊 Progress Tracker
 
-| **Module**                     | **Status**      | **Completion Date** |
-|--------------------------------|-----------------|---------------------|
-| Supervised Machine Learning    | 🔄 In Progress  | TBD                  |
-| Univariate Linear Regression   | ✅ Completed    | 06/01/25             |
-| Unsupervised Machine Learning  | ⏳ Not Started  | TBD                  |
-| Deep Learning                  | ⏳ Not Started  | TBD                  |
+| **Module**                                  | **Status**      | **Completion Date** |
+|---------------------------------------------|-----------------|---------------------|
+| Supervised Machine Learning                 | 🔄 In Progress  | TBD                  |
+| Univariate Linear Regression                | ✅ Completed    | 06/01/25             |
+| Linear Regression with Multiple Variables   | ✅ Completed    | 09/01/25             |
+| Unsupervised Machine Learning               | ⏳ Not Started  | TBD                  |
+| Deep Learning                               | ⏳ Not Started  | TBD                  |
 
 ---
 

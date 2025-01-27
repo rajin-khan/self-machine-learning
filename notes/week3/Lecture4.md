@@ -1,4 +1,4 @@
-# **Lecture Notes: Cost Function for Logistic Regression**
+# Lecture 4: Cost Function for Logistic Regression
 
 - The **cost function** measures how well a set of parameters (weights \(w\) and bias \(b\)) fits the training data. It guides the model to choose better parameters.
 
